@@ -95,8 +95,3 @@ for (let i = 0; i < marquees.length; i++) {
   ]
 }
 {% endschema %}
-
-{# 
-5- Una vez pegado el codigo , vamos a Theme.liquid , si estas utilizando el tema Dawn, el la linea 291 pegar lo siguiente
-{%section'marquee'%}
-#}
